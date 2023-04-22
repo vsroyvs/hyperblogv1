@@ -6,4 +6,4 @@ es de san pedro de cajas junin
 
 estudio en la uncp, ingenieria de sistemas
 
-trabajo como dev front-end
+trabajo como dev back-end en devbase
