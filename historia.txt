@@ -4,6 +4,6 @@ tiene 34 años de edad
 
 es de san pedro de cajas
 
-estudio en la uncp, ingenieria de sistemas
+estudio en la uncp, ingenieria de sistemas y desarrollo
 
 trabajo como dev back-end en devbase
